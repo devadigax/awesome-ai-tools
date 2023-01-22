@@ -3,7 +3,7 @@
 
 1. Finta: Automate your entire fundraising workflow
 -> https://www.trustfinta.com/<br>
-![Logo](https://uploads-ssl.webflow.com/61a13b83199e422dd6ba2507/61a6d811848a3c1a1d1eeab8_Finta%20Logo.png)
+<a href="https://www.trustfinta.com/" target="_blank">![Logo](https://uploads-ssl.webflow.com/61a13b83199e422dd6ba2507/61a6d811848a3c1a1d1eeab8_Finta%20Logo.png)</a>
 
 2. Cleanvoice: Automatically edit your podcast episodes
 -> https://cleanvoice.ai/<br>
