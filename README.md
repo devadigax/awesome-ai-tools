@@ -23,6 +23,7 @@ This repository serves as a high-quality collection of AI resources. For the com
 ### 🎨 Image & Video Generation
 * **[Midjourney](https://www.midjourney.com)** - Widely considered the highest quality AI image generator for artistic and photorealistic visuals.
 * **[Runway](https://runwayml.com)** - A suite of creative tools for video editing and generation (Gen-3 Alpha).
+* **[ImagineClip](https://imagineclip.com)** - AI video generator for fun clips, avatar videos, stylized scenes, and shareable social content from prompts, images, and effects.
 * **[Sora (OpenAI)](https://openai.com/sora)** - *Coming Soon/Beta* - Text-to-video model capable of generating complex scenes with multiple characters.
 
 ### ✍️ Content & Writing
